@@ -72,7 +72,7 @@ PAYPAL API will use for payment gateway
 
 #### Register Page
 
-![](signup.png)
+![](Signup.png)
 
 #### Login Page
 
